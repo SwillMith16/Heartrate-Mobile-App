@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/HeartRate_BLE_App/[Ll]ibrary/
+/HeartRate_BLE_App/[Tt]emp/
+/HeartRate_BLE_App/[Oo]bj/
+/HeartRate_BLE_App/[Bb]uild/
+/HeartRate_BLE_App/[Bb]uilds/
+/HeartRate_BLE_App/[Ll]ogs/
+/HeartRate_BLE_App/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -70,3 +70,4 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+HeartRate_BLE_App/Builds.zip
