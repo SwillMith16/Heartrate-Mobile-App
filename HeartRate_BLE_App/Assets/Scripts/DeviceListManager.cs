@@ -16,7 +16,7 @@ public class DeviceListManager : MonoBehaviour
 	private bool _startScan = true;
 	private Dictionary<string, ScannedItem> _scannedItems;
 	private const int numOfServices = 1;
-	private string[] ServiceUUID = {"2A36"};
+	private string[] ServiceUUID = {"180D"};
 
 	public void OnStopScanning()
 	{
